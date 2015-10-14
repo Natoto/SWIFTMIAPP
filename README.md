@@ -4,11 +4,13 @@ Swiftmi-APP (Dev Share)
 **Dev Share**为[www.swiftmi.com](http://www.swiftmi.com) 社区app(已上线),纯Swift实现，
 Natoto加入pod，使用Alamofire、喵神的Kingfisher和 SwiftyJSON
 ========
-`platform :ios, "8.0"`
-`use_frameworks!`
-`pod 'Kingfisher', '~> 1.6.0'`
-`pod 'SwiftyJSON', '~> 2.3.0'`
-`pod 'Alamofire', '~> 2.0.2'`
+```javascript
+platform :ios, "8.0"
+use_frameworks!
+pod 'Kingfisher', '~> 1.6.0'
+pod 'SwiftyJSON', '~> 2.3.0'
+pod 'Alamofire', '~> 2.0.2'
+```
 ========
 运行前获取以上的第三方库
 `pod install --no-repo-update`

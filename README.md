@@ -1,8 +1,10 @@
 Swiftmi-APP (Dev Share)
 =========
 
-**Dev Share**为[www.swiftmi.com](http://www.swiftmi.com) 社区app(已上线 APPStore下载地址[https://itunes.apple.com/cn/app/dev-share-zhuan-ye-deapp-kai/id993402332?l=en&mt=8]),纯Swift实现，
+**Dev Share**为[www.swiftmi.com](http://www.swiftmi.com) 社区app(已上线),纯Swift实现，
 Natoto加入pod，使用Alamofire、喵神的Kingfisher和 SwiftyJSON
+========
+APPStore下载地址[https://itunes.apple.com/cn/app/dev-share-zhuan-ye-deapp-kai/id993402332?l=en&mt=8]
 
 ========
 ```javascript

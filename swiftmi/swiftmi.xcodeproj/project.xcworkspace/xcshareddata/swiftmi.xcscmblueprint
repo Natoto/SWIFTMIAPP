@@ -1,0 +1,51 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A7556B41793AC5558A8B5C5FD8E1FE2B2BA92240",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3" : 0,
+    "A7556B41793AC5558A8B5C5FD8E1FE2B2BA92240" : 0,
+    "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1" : 0,
+    "66D14C614BF39DC554333E7841F9446A9270111A" : 0,
+    "67620B5EFA902936DF04070AF595B76AB0333747" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "686870AA-4AF1-4FF2-A994-2E25AAA27DC6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3" : "swiftmiSwiftyJSON",
+    "A7556B41793AC5558A8B5C5FD8E1FE2B2BA92240" : "swiftmi",
+    "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1" : "swiftmiKingfisher",
+    "66D14C614BF39DC554333E7841F9446A9270111A" : "..\/app\/swiftmi",
+    "67620B5EFA902936DF04070AF595B76AB0333747" : "swiftmiAlamofire"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "swiftmi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "swiftmi\/swiftmi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/onevcat\/Kingfisher.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "17FB51EC7B87DC25DD21E28FDFD877B479CFFAC1"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/feiin\/swiftmi_app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "66D14C614BF39DC554333E7841F9446A9270111A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Alamofire\/Alamofire.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "67620B5EFA902936DF04070AF595B76AB0333747"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/feiin\/swiftmi-app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A7556B41793AC5558A8B5C5FD8E1FE2B2BA92240"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SwiftyJSON\/SwiftyJSON.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C861FC00CEE0F6A6BE81FCFF6785FAA78C58EBB3"
+    }
+  ]
+}
